@@ -1,0 +1,82 @@
+
+Random Card :
+
+
+  <!-- <div class="col-xs-12 r-card">
+                <p class="r-on-text">Random Recipes</p>
+                <img src="https://www.themealdb.com/images/media/meals/qwrtut1468418027.jpg" alt="">
+                <div class="r-bottom">
+                <h4 class="r-text">Potato Gratin</h4>
+                <i class="fas fa-add"></i>
+            </div>
+            </div>
+
+            <div class="col-xs-12 r-card">
+                <p class="r-on-text">Random Recipes</p>
+                <img src="https://www.themealdb.com/images/media/meals/qwrtut1468418027.jpg" alt="">
+                <div class="r-bottom">
+                <h4 class="r-text">Potato Gratin</h4>
+                <i class="fas fa-add"></i>
+            </div>
+            </div> -->
+
+
+
+Main Card :
+
+
+
+ <!-- <div class="col-xs-4 col-md-8 main-card">
+                <img src="https://www.themealdb.com/images/media/meals/uuyrrx1487327597.jpg" alt="" class="main-card-img">
+                <h3 class="main-card-title">Poutine</h3>
+                <p class="main-card-text">
+                    Heat oil in a deep fryer or deep heavy skillet to 365°F (185°C).\r\nWarm gravy in saucepan or microwave.\r\nPlace the fries into the hot oil, and cook until light brown, about 5 minutes.\r\nRemove to a paper towel lined plate to drain.\r\nPlace the fries on a serving platter, and sprinkle the cheese over them.\r\nLadle gravy over the fries and cheese, and serve immediately.
+
+                </p>
+            </div>
+
+            <div class="col-xs-4 col-md-8 main-card">
+            <div class="img-fav-btn">    
+            <img src="https://www.themealdb.com/images/media/meals/uuyrrx1487327597.jpg" alt="" class="main-card-img">
+            <i class="fas fa-heart fav-btn"></i>
+        </div>
+            <h3 class="main-card-title">Poutine</h3>
+                <p class="main-card-text">
+                    Heat oil in a deep fryer or deep heavy skillet to 365°F (185°C).\r\nWarm gravy in saucepan or microwave.\r\nPlace the fries into the hot oil, and cook until light brown, about 5 minutes.\r\nRemove to a paper towel lined plate to drain.\r\nPlace the fries on a serving platter, and sprinkle the cheese over them.\r\nLadle gravy over the fries and cheese, and serve immediately.
+
+                </p>
+            </div> -->
+
+
+
+Fav : 
+ <li class="fav ">
+                    <img src="https://www.themealdb.com/images/ingredients/Lime.png" alt="" class="fav-img p-1">
+                    <p class="fav-name">Lime</p>
+                </li>
+            
+        
+    
+            
+                <li class="fav">
+                    <img src="https://www.themealdb.com/images/ingredients/Lime.png" alt="" class="fav-img p-1">
+                    <p class="fav-name">Lime</p>
+                </li>
+            
+      
+        
+            
+                <li class="fav">
+                    <img src="https://www.themealdb.com/images/ingredients/Lime.png" alt="" class="fav-img p-1">
+                    <p class="fav-name">Lime</p>
+                </li>
+            
+                <li class="fav">
+                    <img src="https://www.themealdb.com/images/ingredients/Lime.png" alt="" class="fav-img p-1">
+                    <p class="fav-name">Lime</p>
+                </li>
+         
+                <li class="fav">
+                    <img src="https://www.themealdb.com/images/ingredients/Lime.png" alt="" class="fav-img p-1">
+                    <p class="fav-name">Lime</p>
+                </li>
